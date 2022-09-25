@@ -1,1 +1,2 @@
-include ':app', ':nsfw'
+include ':nsfw'
+include ':app'
